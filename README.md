@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Olá! Eu sou o Jefferso Legnaghi 🕷️
+### Olá! Eu sou o Jefferson Legnaghi 🕷️
 
 ### Estudante de Sistema de Informação em UDC 👨‍🎓👨‍💻💠
 
