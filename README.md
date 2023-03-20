@@ -2,6 +2,8 @@
 
 ### Olá! Eu sou o Jefferso Legnaghi 🕷️
 
+### Estudante de Sistema de informação 👨‍🎓👨‍💻💠
+
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.oi&logoColor=white)](http://jeffersonlegnaghi.com.br/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5545988004098) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://jeffersonlegnaghi.com.br/) 
